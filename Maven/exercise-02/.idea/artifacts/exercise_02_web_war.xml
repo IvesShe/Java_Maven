@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="exercise-02-web:war">
+    <output-path>$PROJECT_DIR$/exercise-02-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>exercise-02-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="exercise-02-web-1.0.war">
+      <element id="artifact" artifact-name="exercise-02-web:war exploded" />
+    </root>
+  </artifact>
+</component>

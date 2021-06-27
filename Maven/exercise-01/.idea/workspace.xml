@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="331776c3-5fea-47b6-963f-529e0218beef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../exercise-02/exercise-02/exercise-02-web/exercise-02-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise-02/exercise-02/exercise-02-web/exercise-02-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/exercise-02/exercise-02-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise-02/exercise-02/exercise-02-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/exercise-02/exercise-02-web/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/exercise-02/target/classes/com/ives/HelloMaven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/exercise-02/target/exercise-02-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/exercise-02/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/exercise-02/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/exercise-02/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/exercise-02/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/exercise-02/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/exercise-02/target/surefire-reports/TEST-com.ives.TestHelloMaven.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/exercise-02/target/surefire-reports/com.ives.TestHelloMaven.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/exercise-02/target/test-classes/com/ives/TestHelloMaven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/apache-maven-3.8.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1uTCMcBhxerbb5AuUbntblnzVyF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exercise-02" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestHelloMaven">
+    <configuration name="HelloMaven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ives.HelloMaven" />
+      <module name="exercise-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ives.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHelloMaven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ives.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ives" />
+      <option name="MAIN_CLASS_NAME" value="com.ives.TestHelloMaven" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHelloMaven.testAddNumber1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ives.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ives" />
+      <option name="MAIN_CLASS_NAME" value="com.ives.TestHelloMaven" />
+      <option name="METHOD_NAME" value="testAddNumber1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHelloMaven.testAddNumber2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ives.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ives" />
+      <option name="MAIN_CLASS_NAME" value="com.ives.TestHelloMaven" />
+      <option name="METHOD_NAME" value="testAddNumber2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestHelloMaven" />
+        <item itemvalue="JUnit.TestHelloMaven.testAddNumber2" />
+        <item itemvalue="JUnit.TestHelloMaven.testAddNumber1" />
+        <item itemvalue="Application.HelloMaven" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="331776c3-5fea-47b6-963f-529e0218beef" name="Default Changelist" comment="" />
+      <created>1624680145488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624680145488</updated>
+      <workItem from="1624680146782" duration="2870000" />
+      <workItem from="1624764565929" duration="4330000" />
+      <workItem from="1624769388888" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
